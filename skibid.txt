@@ -1,0 +1,135 @@
+1. Różnica między autorskimi prawami osobistymi a majątkowymi w kontekście  ingerowania w utwór polega na tym, że: 
+a) Prawa osobiste nigdy nie wygasają, a majątkowe wygasają po 50 latach b) Prawa osobiste można dowolnie sprzedawać, a majątkowe są niezbywalne c) Prawa osobiste chronią niepowtarzalną więź twórcy z utworem, a majątkowe dotyczą  korzyści finansowych i można je przenosić 
+d) Prawa osobiste obowiązują tylko w Unii Europejskiej, a majątkowe na całym świecie Poprawna odpowiedź: c) 
+2. Dlaczego przeniesienie autorskich praw majątkowych wymaga zawsze wyraźnej  (pisemnej) umowy? 
+a) Ponieważ ustawa zobowiązuje do zgłoszenia przelewu praw w Urzędzie Patentowym b) Ponieważ tylko pisemna forma pozwala określić, czy przenosi się również prawa  osobiste 
+c) Bo w przeciwnym razie umowa jest zawsze bezskuteczna i autor nie zachowuje  żadnych praw 
+d) Bo tak stanowią przepisy, aby jednoznacznie określić zakres i warunki przekazania  uprawnień 
+Poprawna odpowiedź: d) 
+3. W jaki sposób polskie prawo autorskie chroni program komputerowy jako utwór? 
+a) Chroni zawsze tylko pliki wykonywalne, nie obejmując kodu źródłowego b) Obejmuje kod źródłowy, strukturę i wyrażoną formę, ale nie sam pomysł czy algorytm c) Zawsze chroni każdą ideę programistyczną niezależnie od jej formy d) Uzależnia ochronę jedynie od zgłoszenia programu w Urzędzie Patentowym 
+Poprawna odpowiedź: b) 
+4. „Chwila ustalenia utworu” w rozumieniu prawa autorskiego oznacza: 
+a) Moment, w którym praca zostaje po raz pierwszy sprzedana 
+b) Ukończenie dzieła w wersji finalnej 
+c) Pierwsze uzewnętrznienie utworu w jakiejkolwiek postaci, nawet nieukończonej d) Czas oficjalnej rejestracji w Krajowym Rejestrze Twórców 
+Poprawna odpowiedź: c)
+5. Czym różni się licencja od przeniesienia autorskich praw majątkowych do  oprogramowania? 
+a) Licencja oznacza przekazanie pełni praw osobistych i majątkowych na licencjobiorcę b) Przy licencji twórca zrzeka się wszystkich praw do programu 
+c) Licencja daje prawo korzystania z utworu w ustalonym zakresie, natomiast  przeniesienie przekazuje majątkowe prawa w całości 
+d) Brak różnicy, w obydwu przypadkach wszystkie prawa przechodzą na nabywcę Poprawna odpowiedź: c) 
+6. Zasada ochrony twórcy „niezależnie od spełnienia jakichkolwiek formalności”  oznacza, że: 
+a) Autor musi złożyć przysięgę w sądzie potwierdzającą jego twórczość b) Autorowi przysługuje ochrona od momentu ustalenia utworu, nawet jeśli go nigdzie  nie zgłosił 
+c) Konieczne jest zawsze depozytowanie kopii dzieła w specjalnym archiwum d) W przypadku sporów sądowych ochrona działa tylko po zapłaceniu urzędowej opłaty 
+Poprawna odpowiedź: b) 
+7. Okres obowiązywania autorskich praw majątkowych jest ściśle określony,  ponieważ: 
+a) Autor musi mieć wieczne prawo do zarabiania na swoim dziele 
+b) Po pewnym czasie (zwykle 70 lat po śmierci twórcy) utwór przechodzi do domeny  publicznej 
+c) Ustawodawca przewiduje możliwość przedłużenia praw po 20 latach d) Prawa wygasają zawsze 10 lat po pierwszej publikacji 
+Poprawna odpowiedź: b) 
+8. Jakie ryzyko wiąże się z naruszeniem autorskich praw osobistych przy  wprowadzaniu zmian w cudzym programie? 
+a) Utrata wszelkich praw majątkowych do własnego kodu 
+b) Konieczność zapłaty kary administracyjnej Urzędowi Patentowemu c) Roszczenie o usunięcie nieautoryzowanych modyfikacji i możliwe odszkodowanie d) Brak jakichkolwiek konsekwencji, bo prawo osobiste nie dotyczy programów 
+Poprawna odpowiedź: c)
+9. Nadzór twórcy nad sposobem korzystania z utworu oznacza, że: 
+a) Autor może zawsze dowolnie wycofać z rynku każdy egzemplarz swojego dzieła b) Twórca może kontrolować, czy utwór nie został zmieniony w sposób naruszający jego  koncepcję 
+c) Wszystkie decyzje biznesowe dotyczące dystrybucji musi podejmować wyłącznie  autor 
+d) Autor nie ma faktycznych narzędzi prawnych, by egzekwować taki nadzór Poprawna odpowiedź: b) 
+10. Autor może powołać się na nienaruszalność formy i treści utworu: 
+a) Gdy modyfikacja kodu źródłowego narusza istotę utworu lub wizję intelektualną b) Tylko jeśli program ma status patentu w Urzędzie Patentowym RP c) Zawsze, kiedy wydawca chce wprowadzić nowe funkcje 
+d) Nigdy, bo forma i treść nie odnoszą się do programów komputerowych Poprawna odpowiedź: a) 
+11. W przypadku naruszenia autorskich praw osobistych, twórca może: 
+a) Jedynie zażądać uwięzienia sprawcy bez dodatkowych roszczeń b) Dochodzić sądownie żądania przeprosin, odszkodowania czy wycofania  naruszających materiałów 
+c) Odwołać się wyłącznie do Europejskiego Trybunału Praw Człowieka d) Natychmiast skonfiskować mienie osoby, która naruszyła prawa 
+Poprawna odpowiedź: b) 
+12. Publiczne oświadczenia w mediach jako zadośćuczynienie za naruszenie praw  majątkowych: 
+a) Nie mają żadnego znaczenia, bo liczy się tylko kara finansowa 
+b) Są formą kary pozbawienia wolności 
+c) Pozwalają odbudować wizerunek twórcy oraz poinformować opinię publiczną o  naruszeniu 
+d) Zastępują jednocześnie wszelkie roszczenia finansowe 
+Poprawna odpowiedź: c)
+13. Zabezpieczenia techniczne w oprogramowaniu chronią majątkowe prawa  autorskie, bo: 
+a) Uniemożliwiają dostęp administratorom sieciowym 
+b) Blokują każdą próbę uruchomienia programu na nieautoryzowanym sprzęcie c) Utrudniają kopiowanie lub zmianę kodu, a ich omijanie jest dozwolone tylko w  wyjątkowych przypadkach przewidzianych prawem 
+d) Zapewniają natychmiastowe śledzenie wszystkich użytkowników na całym świecie Poprawna odpowiedź: c) 
+14. Wycofanie z obrotu wadliwego oprogramowania często wiąże się z prawem  autorskim, ponieważ: 
+a) Tylko Urząd Skarbowy może decydować o wycofaniu aplikacji 
+b) Twórca ponosi odpowiedzialność cywilną, która może wymagać usunięcia programu z  rynku 
+c) Każdy program wadliwy staje się automatycznie dziełem z domeny publicznej d) Prawo autorskie nie ma żadnego związku z wadliwością oprogramowania 
+Poprawna odpowiedź: b) 
+15. Rola Urzędu Patentowego RP w ochronie własności intelektualnej polega na: 
+a) Wydawaniu zgód na każde użycie programu komputerowego w internecie b) Rejestracji praw ochronnych na wynalazki i znaki towarowe, co pomaga chronić m.in.  rozwiązania technologiczne 
+c) Ustalaniu norm czasowych dla praw autorskich osobistych 
+d) Zastępowaniu sądów cywilnych w sporach o naruszenia praw autorskich Poprawna odpowiedź: b) 
+16. Niezamierzone użycie fragmentów cudzego kodu: 
+a) Zwykle jest w pełni legalne, jeśli fragment ma mniej niż 100 linii 
+b) Nie zwalnia od odpowiedzialności, ponieważ niewiedza nie usprawiedliwia  naruszenia 
+c) Jest zawsze dozwolone, o ile programista nie czerpie z tego zysku d) Nie stanowi naruszenia, gdy fragment zawiera powszechnie znane funkcje 
+Poprawna odpowiedź: b)
+17. Definicja dóbr niematerialnych bywa problematyczna, bo: 
+a) Wszystkie dobra niematerialne mają również formę materialną b) Nie istnieje w prawie pojęcie własności niematerialnej 
+c) Trudno oddzielić chroniony utwór od samej idei, a o przysługiwaniu praw decyduje  często moment ustalenia lub umowa 
+d) Dobra niematerialne zawsze należą wyłącznie do państwa 
+Poprawna odpowiedź: c) 
+18. W umowach licencyjnych na oprogramowanie częściej pojawiają się klauzule  niematerialne (np. uznanie autorstwa), ponieważ: 
+a) Takie klauzule nie podlegają weryfikacji przez sądy 
+b) Ich naruszenie nie pociąga za sobą żadnych konsekwencji finansowych c) Chronią reputację, markę i tożsamość twórcy, co w branży IT jest kluczowe d) Nikt nie jest w stanie wyegzekwować klauzul majątkowych 
+Poprawna odpowiedź: c) 
+19. Sąd może nakazać trwałe usunięcie lub zablokowanie dostępu do utworu w  Internecie: 
+a) Zawsze, gdy autor złoży taki wniosek, bez żadnej weryfikacji 
+b) Tylko w przypadku oprogramowania open-source 
+c) Jeśli stwierdzi, że obecność treści narusza prawa autorskie i szkodę twórcy d) Wyłącznie wtedy, gdy administrator serwera jest zamieszkały w Polsce 
+Poprawna odpowiedź: c) 
+20. Przy sporządzaniu umów o przeniesienie autorskich praw majątkowych do  oprogramowania kluczowe jest: 
+a) Powołanie biegłego sądowego do zatwierdzenia umowy 
+b) Dokładne określenie pól eksploatacji i wysokości wynagrodzenia c) Dodanie klauzuli o licencji Creative Commons BY-SA 
+d) Skrócenie czasu ochrony do roku od daty podpisania umowy 
+Poprawna odpowiedź: b)
+21. „Wolne oprogramowanie” nie zawsze jest w pełni bezpłatne, ponieważ: 
+a) Twórca może zakazać uruchamiania go na konkretnych urządzeniach b) Może istnieć opłata np. za wsparcie lub dystrybucję, mimo udostępnienia źródeł c) Prawo nakazuje naliczać minimalną opłatę za każdy pobrany plik d) Tylko biblioteki open-source są całkowicie darmowe, a programy muszą być płatne 
+Poprawna odpowiedź: b) 
+22. Korzystając z darmowych licencji oprogramowania, należy uważać na  ograniczenia niematerialne, bo: 
+a) Mogą wymuszać usunięcie logo twórcy w każdym zastosowaniu b) Uznanie autorstwa czy zachowanie informacji o pochodzeniu kodu jest częstym  warunkiem licencji 
+c) Zwykle darmowe licencje nie pozwalają na dokonywanie jakichkolwiek modyfikacji d) Autorzy zwykle nie egzekwują tych klauzul, więc nie warto ich czytać 
+Poprawna odpowiedź: b) 
+23. Trudność w odróżnieniu dóbr niematerialnych od materialnych przy sprzedaży  programów wynika z faktu, że: 
+a) Zwykle brak różnic – licencja na program i fizyczna płyta to to samo b) Posiadanie nośnika (płyty) nie daje automatycznie praw do kodu jako takiego c) Program zawsze ma formę fizyczną i jest traktowany jak płyta DVD d) Kopiowanie takiego dobra nie jest objęte sankcjami prawnymi 
+Poprawna odpowiedź: b) 
+24. Twórca oprogramowania może żądać wycofania go z obrotu, gdy: 
+a) Zostało ono udostępnione w Internecie za darmo 
+b) Program zgłoszono do licencji GPL bez jego zgody 
+c) Przedmiotowe oprogramowanie narusza przepisy umowy licencyjnej albo powstało z  naruszeniem cudzego prawa 
+d) Od wydania minęło więcej niż 10 lat i nie jest już opłacalne 
+Poprawna odpowiedź: c)
+25. Dlaczego „niewiedza” nie zwalnia z odpowiedzialności za naruszenie prawa  autorskiego w kodzie? 
+a) Wystarczy twierdzić, że kod się sam skopiował 
+b) Liczy się obiektywny fakt wykorzystania cudzego utworu bez zezwolenia c) Istnieje powszechna zasada, że nikt nie ponosi winy za nieświadome działania d) Zawsze zwalnia, jeśli naruszenie trwa krócej niż 30 dni 
+Poprawna odpowiedź: b) 
+26. Przy modyfikacjach kodu źródłowego objętego licencją GPL: 
+a) Wprowadzone zmiany stają się automatycznie własnością prywatną twórcy  modyfikacji 
+b) Należy udostępnić zmieniony kod na tej samej licencji (GPL) 
+c) Zmodyfikowana wersja nie może być dalej rozpowszechniana 
+d) Prawo autorskie nie obejmuje takiego kodu 
+Poprawna odpowiedź: b) 
+27. Licencje Creative Commons w kontekście oprogramowania: 
+a) Pozwalają autorowi zawsze żądać opłat za użytkowanie 
+b) Są identyczne z licencją GPL 
+c) Dają elastyczne możliwości dzielenia się kodem lub jego modyfikacją, łącząc wolność  z wybranymi ograniczeniami (np. uznanie autorstwa) 
+d) Nie stosuje się ich do programów komputerowych 
+Poprawna odpowiedź: c) 
+28. Audyt legalności oprogramowania w instytucji: 
+a) Zawsze jest obowiązkowy tylko w urzędach państwowych 
+b) Pozwala wykryć nielegalne kopie, uporządkować licencje oraz uniknąć kar i poprawić  zarządzanie zasobami 
+c) Nie ma żadnego wpływu na bezpieczeństwo danych 
+d) Może być przeprowadzony wyłącznie przez policję 
+Poprawna odpowiedź: b)
+29. Kopiowanie zastrzeżonych fragmentów kodu w aplikacjach wielowarstwowych  bywa trudne do wykrycia, bo: 
+a) Autorzy zawsze oznaczają takie fragmenty specjalnymi komentarzami b) Tylko testy manualne wykrywają naruszenia autorskie 
+c) Kod może być rozproszony w wielu modułach, a dowody plagiatu wymagają analizy  wersji kodu i historii commitów 
+d) Prawo zezwala na kopiowanie do 20% cudzego kodu 
+Poprawna odpowiedź: c) 
+30. Konflikt między prawem autorskim a ochroną znaków towarowych przy  wprowadzaniu programu na rynek może powstać, gdy: 
+a) Kod programu jest napisany w Javie lub C++ 
+b) Nazwa lub logo aplikacji jest już wcześniej zastrzeżone przez inny podmiot c) Twórcy używają otwartoźródłowych bibliotek w projekcie 
+d) Program korzysta z darmowej licencji Creative Commons 
+Poprawna odpowiedź: b)
